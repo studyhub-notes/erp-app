@@ -1,7 +1,5 @@
-Name,Roll Number,Room Number,Food Preference
-Alice,101,12,veg
-Bob,102,22,Non-Veg
-Charlie,103,15,Veg
-David,104,18,Jain
-Emily,105,21,Non-Veg
-james ,106,61,non-veg
+name,roll,days,amount
+array,1,45,3150
+potter,34,10,700
+james,11,1,70
+alice,18,22,1540
